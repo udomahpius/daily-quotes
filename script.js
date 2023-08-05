@@ -1,6 +1,7 @@
 const button = document.querySelector('button');
 const text_1 = document.querySelector('.text_1');
 const text_2 = document.querySelector('.text_2')
+// const API = 'https://forum.freecodecamp.org/t/free-api-inspirational-quotes-json-with-code-examples/311373' 
 const API = "http://api.quotable.io/random"
 let useState;
 const text = 'Discover the most beautiful qoutes around the world'
